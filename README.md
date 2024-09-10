@@ -57,9 +57,15 @@ Estimación total: 400 horas
 
 ## Contribuyentes
 
+- <span style="color: #32CD32;">[AQUINO VILLEGAS, KATHERINY NICOL]()</span> - Rol: 
 - <span style="color: #1E90FF;">[Ruben Dominguez Huaman](https://github.com/Anthonny-wt)</span> - Rol: Desarrollador Principal
-- <span style="color: #32CD32;">[Bryan Jose Bello Cuyubamba](https://github.com/BryanJbC)</span> - Rol: Diseñador UI/UX
-- <span style="color: #FFA500;">[Nombre del Contribuyente 3](enlace-al-perfil)</span> - Rol: Analista de Requerimientos
+- <span style="color: #32CD32;">[Bryan Jose Bello Cuyubamba](https://github.com/BryanJbC)</span> - Rol:
+- <span style="color: #32CD32;">[HUAMAN HUATUCO EMILIO ANDRE ]()</span> - Rol:
+- <span style="color: #32CD32;">[LEIVA LEIVA JUAN ALEXIS]()</span> - Rol:
+- <span style="color: #32CD32;">[LIZARASO TAIPE DAVID]()</span> - Rol:
+- <span style="color: #32CD32;">[LOPEZ AQUINO. ERIK ANGEL]()</span> - Rol:
+- <span style="color: #32CD32;">[SOTO EGOAVIL SERGIO ALDAIR ]()</span> - Rol:
+- <span style="color: #32CD32;">[YURIVILCA QUISPE SCOTT JARRY ]()</span> - Rol:
 
 ## Objetivos del Proyecto
 
